@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",  
+SESSION_ID: process.env.SESSION_ID || "ALI-MD~KNcwjb4L#kmbnQXg7qsFWJS-itvhEOQ-8amuBIdCwMEeD5Qn7ti8",  
 //chatbot integration 
 CHATBOT: process.env.CHATBOT || "on",
 // add your Session Id 
@@ -46,7 +46,7 @@ OWNER_REACT: process.env.OWNER_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923003588997",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "37121137833",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "ALI INXIDE",
 // add bot owner name
